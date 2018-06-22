@@ -1,0 +1,8 @@
+- [langs](https://langs.bigsbyspot.org) - Trying many programming languages
+- [jazz](https://.bigsbyspot.org) - Dynamic music score rendering with [VexFlow](https://github.com/0xfe/vexflow)
+- [music](https://music.bigsbyspot.org) - Music theory
+- [babil](https://babil.bigsbyspot.org) - .Net IL explorations
+- [matrix](https://matrix.bigsbyspot.org) - A mathematicall exercise in many programing languages
+- [tictactoe](https://tictactoe.bigsbyspot.org) - A simple in many UI frameworks
+- [boilerplate](https://boilerplate.bigsbyspot.org) - Website boilerplates
+- [Xamarin.Form.Auth](https://www.nuget.org/packages/Xamarin.Forms.OAuth/)
